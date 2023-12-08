@@ -4,14 +4,19 @@ A basic starter kit for an Express API server with TypeScript.
 
 ## Dependencies
 
+- [body-parser](https://www.npmjs.com/package/body-parser)
+- [compression](https://www.npmjs.com/package/compression)
+- [cookie-parser](https://www.npmjs.com/package/cookie-parser)
 - [cors](https://www.npmjs.com/package/cors)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [Express](https://www.npmjs.com/package/express)
 - [helmet](https://www.npmjs.com/package/helmet)
-- [winston](https://www.npmjs.com/package/winston)
 
 ## Dev Dependencies
 
+- [@types/body-parser](https://www.npmjs.com/package/@types/body-parser)
+- [@types/compression](https://www.npmjs.com/package/@types/compression)
+- [@types/cookie-parser](https://www.npmjs.com/package/@types/cookie-parser)
 - [@types/cors](https://www.npmjs.com/package/@types/cors)
 - [@types/eslint](https://www.npmjs.com/package/@types/eslint)
 - [@types/express](https://www.npmjs.com/package/@types/express)
